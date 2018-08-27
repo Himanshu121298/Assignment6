@@ -1,4 +1,4 @@
-class StaticEx{
+class Question1{
    static int num;
    static String mystr;
    //First Static block
